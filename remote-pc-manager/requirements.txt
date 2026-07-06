@@ -1,0 +1,8 @@
+python-telegram-bot
+opencv-python
+Pillow
+pyautogui
+psutil
+numpy
+requests
+python-docx
